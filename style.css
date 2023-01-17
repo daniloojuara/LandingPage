@@ -875,16 +875,16 @@ footer {
     }
     .footer-content .footer-lists {
         flex-direction: column;
-        font-size: 45rem;
+        font-size: 35rem;
     }
 
     .footer-content .footer-lists ul p{
-        font-size: 2.2rem;
+        font-size: 1.8rem;
         font-weight: 600;
     }
 
     .footer-content .footer-lists ul li {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     .copyright {
